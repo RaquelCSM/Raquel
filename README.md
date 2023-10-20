@@ -1,6 +1,5 @@
-## Ola, Sou Raquel Machado👋
-
-Economista e Apaixonada por Programação
+# Ola, Sou Raquel Machado👋
+### Economista e Apaixonada por Programação &#129303;
 
 
 
