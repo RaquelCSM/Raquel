@@ -5,10 +5,11 @@
    
 🚀 Em busca de conhecimento, para criar interfaces incríveis e experiências de usuário cativantes.
  </h4> <br/>
-<p align="right">
+
 
 <img src= https://github.com/RaquelCSM/RaquelCSM/assets/92937300/69c30427-34f6-48f3-91e6-d6af4043ab70 width=250px/>
 <p align="left">
-<a href="https://www.linkedin.com/in/raquel-machado-33a02765/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/raquel-machado-33a02765/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+
   </p>
 </div>
