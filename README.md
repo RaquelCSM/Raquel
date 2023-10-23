@@ -1,14 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=130&!&fontAlign=5&fontAlignY=5&color=gradient)
-<br align="center">
-  <h3 align="center">
-</br>
-<br align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+vindo!;Olá+Sou+,+Raquel!;!&font=Fira&%20Code&center=true&color=152020&width=200&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</br>
- <br align="rigth"><h4>
-Estudante de programação ;<br/>
-💻🚀 Em busca de conhecimento para criar interfaces incríveis e experiências de usuário cativantes.
- </h4>
+<img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+vindo!;Olá+Sou+,+Raquel!;!&font=Fira&%20Code&center=true&color=152020&width=200&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+
+💻Estudante de programação<br>
+   
+🚀 Em busca de conhecimento, para criar interfaces incríveis e experiências de usuário cativantes.
+ </h4> <br/>
 <p align="right">
 
 <img src= https://github.com/RaquelCSM/RaquelCSM/assets/92937300/69c30427-34f6-48f3-91e6-d6af4043ab70 width=250px/>
