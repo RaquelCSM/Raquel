@@ -2,12 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+vindo!;Olá+Sou+,+Raquel!;!&font=Fira&%20Code&center=true&color=152020&width=800&height=50&duration=4000&pause=1000" >
 
 💻Estudante de programação<br>
-💹Formada em Ciências Econômicas
+💹Formada em Ciências Econômicas<br>
 🖥️Cursando Analise e Desenvolvimento de Sistemas
 
    
-🚀 Em busca de conhecimento, para criar interfaces incríveis e experiências de usuário cativantes.
- </h4> <br/>
 
 
 <img src= https://github.com/RaquelCSM/RaquelCSM/assets/92937300/69c30427-34f6-48f3-91e6-d6af4043ab70 width=250px/> 
