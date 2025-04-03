@@ -3,7 +3,7 @@
 
 💻Estudante de programação<br>
 💹Formada em Ciências Econômicas<br>
-🖥️Cursando Analise e Desenvolvimento de Sistemas
+🖥️Cursando Gestão da Informação
 
    
 
